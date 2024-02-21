@@ -7,7 +7,7 @@ export default function Home() {
         <nav className="w-full">
           <div className="w-auto">
             <Link
-              className="flex flex-col border-l-[3px] border-l-Tertiary-Root pl-1 cursor-pointer hover:bg-Complementary-Root"
+              className="flex flex-col border-l-[3px] border-l-Secondary-Root pl-1 cursor-pointer hover:bg-Complementary-Root"
               href="/"
             >
               <h1 className="text-3xl font-bold text-Primary-Root">
